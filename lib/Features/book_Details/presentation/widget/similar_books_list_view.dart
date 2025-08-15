@@ -1,7 +1,7 @@
 import 'package:bookly_app/Core/Utils/size_confige.dart';
 import 'package:bookly_app/Core/widgets/custom_error_widget.dart';
 import 'package:bookly_app/Core/widgets/custom_loading_indicator.dart';
-import 'package:bookly_app/Features/book_Details/presentation/manager/smila_books_cubit/similar_books_cubit.dart';
+import 'package:bookly_app/Features/book_Details/manager/smila_books_cubit/similar_books_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

@@ -4,8 +4,9 @@ import 'package:bookly_app/Features/Home/data/models/book_model/book_model.dart'
 import 'package:bookly_app/Features/Home/data/repos/home_repo_impl.dart';
 import 'package:bookly_app/Features/Home/presentation/homeview.dart';
 import 'package:bookly_app/Features/Splash/Presentation/splash_view.dart';
+import 'package:bookly_app/Features/book_Details/manager/smila_books_cubit/similar_books_cubit.dart';
 import 'package:bookly_app/Features/book_Details/presentation/bookdetailsview.dart';
-import 'package:bookly_app/Features/book_Details/presentation/manager/smila_books_cubit/similar_books_cubit.dart';
+
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 

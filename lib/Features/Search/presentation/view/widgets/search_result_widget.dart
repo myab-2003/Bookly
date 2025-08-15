@@ -3,8 +3,8 @@ import 'package:bookly_app/Core/widgets/custom_error_widget.dart';
 import 'package:bookly_app/Core/widgets/custom_loading_indicator.dart';
 import 'package:bookly_app/Features/Search/data/repos/search_repo_impl.dart';
 import 'package:bookly_app/Features/Search/presentation/view/widgets/search_list.dart';
-import 'package:bookly_app/Features/Search/presentation/view_model/search_book_cubit/Search_books_cubit.dart';
-import 'package:bookly_app/Features/Search/presentation/view_model/search_book_cubit/featured_books_states.dart';
+import 'package:bookly_app/Features/Search/Manager/search_book_cubit/Search_books_cubit.dart';
+import 'package:bookly_app/Features/Search/Manager/search_book_cubit/featured_books_states.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

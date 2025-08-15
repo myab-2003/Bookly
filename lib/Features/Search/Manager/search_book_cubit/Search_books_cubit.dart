@@ -1,5 +1,5 @@
 import 'package:bookly_app/Features/Search/data/repos/search_repo.dart';
-import 'package:bookly_app/Features/Search/presentation/view_model/search_book_cubit/featured_books_states.dart';
+import 'package:bookly_app/Features/Search/Manager/search_book_cubit/featured_books_states.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class SearchBooksCubit extends Cubit<SearchBooksStates> {
